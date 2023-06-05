@@ -35,7 +35,8 @@ const names = [
   "Neda",
   "Niclas",
   "Stephan",
-  "Sven"
+  "Sven",
+  'Thomas'
 ];
 ```
 Fügen Sie neue Namen hinzu oder entfernen Sie bestehende Namen, um die Liste anzupassen. Speichern Sie die Datei und laden Sie die Seite im Webbrowser neu, um die Änderungen wirksam werden zu lassen.
