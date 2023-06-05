@@ -11,12 +11,13 @@ const names = [
   "Jacqueline",
   "Johann",
   "Maciej",
-  "Thomas",
+  'Mateusz',
   "Michael",
   "Neda",
   "Niclas",
   "Stephan",
   "Sven",
+  "Thomas",
 ];
 
 function generateRandomName() {
