@@ -16,7 +16,8 @@ const names = [
   "Neda",
   "Niclas",
   "Stephan",
-  "Sven"
+  "Sven",
+  'Thomas'
 ];
 
 function generateRandomName() {
