@@ -30,13 +30,11 @@ const names = [
   "Jacqueline",
   "Johann",
   "Maciej",
-  'Mateusz',
   "Michael",
   "Neda",
   "Niclas",
   "Stephan",
   "Sven",
-  'Thomas'
 ];
 ```
 Fügen Sie neue Namen hinzu oder entfernen Sie bestehende Namen, um die Liste anzupassen. Speichern Sie die Datei und laden Sie die Seite im Webbrowser neu, um die Änderungen wirksam werden zu lassen.
@@ -49,3 +47,7 @@ Hier soll das Bild neu erstellt werden.
 Den grünen Knopf am Generator anklicken, ein Screenshot erstellen und gegen das vorherige Beispielbild (generator.png) ersetzen.
 
 Das Ergebnis, das unter dem Bildlink  angezeigt wird, statt (Max-Muster) den generierten Namen einfügen.
+
+## Updates
+
+Ein sound wird abgespielt
