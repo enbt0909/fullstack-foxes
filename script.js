@@ -11,17 +11,18 @@ const names = [
   "Jacqueline",
   "Johann",
   "Maciej",
-  'Mateusz',
+  "Thomas",
   "Michael",
   "Neda",
   "Niclas",
   "Stephan",
   "Sven",
-  'Thomas'
 ];
 
 function generateRandomName() {
   const randomIndex = Math.floor(Math.random() * names.length);
   const randomName = names[randomIndex];
   document.getElementById("randomName").textContent = randomName;
+  const drumSound = document.getElementById("drumSound");
+  drumSound.play();
 }
