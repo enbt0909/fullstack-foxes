@@ -52,7 +52,7 @@ const names = [
 
 function generateRandomName() {
   const drumSound = document.getElementById("drumSound");
-  drumSound.volume = 0.1; // Set volume to 50%
+  // drumSound.volume = 0.2; // Set volume to 20%
   drumSound.play();
 
   setTimeout(() => {
