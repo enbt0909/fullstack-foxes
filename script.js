@@ -20,7 +20,7 @@
 // ];
 // function generateRandomName() {
 //   let drumSound = document.getElementById("drumSound");
-//   drumSound.volume = 0.4;
+//   drumSound.volume = 0.1;
 //   console.log(drumSound);
 //   drumSound.play();
 //   setTimeout(function () {
