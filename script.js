@@ -47,12 +47,12 @@ const names = [
   "Neda",
   "Niclas",
   "Stephan",
-  "Sven"
+  "Sven",
 ];
 
 function generateRandomName() {
   const drumSound = document.getElementById("drumSound");
-  drumSound.volume = 0.5; // Set volume to 50%
+  drumSound.volume = 0.1; // Set volume to 50%
   drumSound.play();
 
   setTimeout(() => {
