@@ -20,7 +20,7 @@ const names = [
 ];
 function generateRandomName() {
   const drumSound = document.getElementById("drumSound");
-  drumSound.volume = 0.5;
+  drumSound.volume = 0.2;
   drumSound.play();
   setTimeout(function () {
     const randomIndex = Math.floor(Math.random() * names.length);
