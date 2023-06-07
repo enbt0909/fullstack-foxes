@@ -17,7 +17,8 @@ const names = [
   "Niclas",
   "Stephan",
   "Sven",
-  'Isa'
+  'Isa',
+  'Jeff'
 ];
 function generateRandomName() {
   const drumSound = document.getElementById("drumSound");
