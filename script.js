@@ -19,8 +19,8 @@ const names = [
   "Sven"
 ];
 function generateRandomName() {
-  const drumSound = document.getElementById("drumSound");
-  drumSound.volume = 0.2;
+  let drumSound = document.getElementById("drumSound");
+  drumSound.volume = 0.4;
   drumSound.play();
   setTimeout(function () {
     const randomIndex = Math.floor(Math.random() * names.length);
