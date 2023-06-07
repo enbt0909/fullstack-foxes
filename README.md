@@ -46,7 +46,7 @@ Bitte beachten Sie, dass dieser Zufallsgenerator nur eine einfache Demonstration
 Hier soll das Bild neu erstellt werden.
 Den grünen Knopf am Generator anklicken, ein Screenshot erstellen und gegen das vorherige Beispielbild (generator.png) ersetzen.
 
-Das Ergebnis, das unter dem Bildlink  angezeigt wird, statt (Max-Muster) den generierten Namen einfügen.
+Das Ergebnis, das unter dem Bildlink  angezeigt wird, statt (Max-Muster) den generierten Namen einfügen
 
 ## Updates
 
