@@ -59,5 +59,5 @@ function generateRandomName() {
     const randomIndex = Math.floor(Math.random() * names.length);
     const randomName = names[randomIndex];
     document.getElementById("randomName").textContent = randomName;
-  }, 2500); // 2500 milliseconds delay before setting the random name
+  }, 2000); // 2000 milliseconds delay before setting the random name
 }
