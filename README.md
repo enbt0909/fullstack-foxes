@@ -54,3 +54,9 @@ Ein sound wird abgespielt
 ## Updates
 
 Ein sound wird abgespielt
+
+## Patch v1.1 (Casino Theme)
+
+Das Layout wurde auf ein Casino Theme geändert
+Sound wurde angepasst
+Name ausgeschiedener Kursteilnehmer entfernt

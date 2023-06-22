@@ -5,7 +5,6 @@ const names = [
   "Expo",
   "Eugen",
   "Genti",
-  "Horschi",
   "Hoanglong",
   "Isla",
   "Jacqueline",
